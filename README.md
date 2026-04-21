@@ -128,11 +128,9 @@ Loan_Default/
 
 ---
 
-## 🚀 Future Improvements
-- Add SHAP explainability  
-- Test XGBoost  
-- Apply SMOTE  
-- Deploy with Flask or Streamlit  
+## 📄 Reference
+Link: https://drive.google.com/drive/folders/160qyA_uPfiNFgtuyVyw6x6TdAjouItSX
+ 
 
 ---
 
